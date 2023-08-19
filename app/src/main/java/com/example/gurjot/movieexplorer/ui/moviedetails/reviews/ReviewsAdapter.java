@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/12/2018.
  */
 public class ReviewsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {

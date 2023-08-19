@@ -1,7 +1,7 @@
 package com.example.gurjot.movieexplorer.utils;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class Constants {
     public static final String IMAGE_BASE_URL = "https://image.tmdb.org/t/p/";

@@ -10,7 +10,7 @@ import androidx.annotation.ColorRes;
 import androidx.core.graphics.drawable.DrawableCompat;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class UiUtils {
 

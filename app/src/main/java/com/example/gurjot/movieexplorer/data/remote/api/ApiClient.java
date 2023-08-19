@@ -8,7 +8,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by Yassin Ajdi.
+ * Created by Gurjot Singh.
  */
 public class ApiClient {
 

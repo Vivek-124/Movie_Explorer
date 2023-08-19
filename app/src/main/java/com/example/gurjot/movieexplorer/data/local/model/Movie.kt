@@ -8,7 +8,7 @@ import androidx.room.Ignore
 import androidx.room.PrimaryKey
 
 /**
- * Created by Yassin Ajdi.
+ * Created by Gurjot Singh.
  */
 @Entity(tableName = "movie")
 data class Movie (

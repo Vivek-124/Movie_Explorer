@@ -14,7 +14,7 @@ import androidx.lifecycle.ViewModel;
 import timber.log.Timber;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class MovieDetailsViewModel extends ViewModel {
 

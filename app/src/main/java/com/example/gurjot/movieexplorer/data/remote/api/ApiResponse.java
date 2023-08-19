@@ -7,7 +7,7 @@ import retrofit2.Response;
 import timber.log.Timber;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/10/2018.
  */
 public class ApiResponse<T> {

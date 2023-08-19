@@ -8,7 +8,7 @@ import androidx.databinding.BindingAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/12/2018.
  */
 public class CastBinding {

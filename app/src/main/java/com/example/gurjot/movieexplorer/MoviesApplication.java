@@ -5,7 +5,7 @@ import android.app.Application;
 import timber.log.Timber;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/10/2018.
  */
 public class MoviesApplication extends Application {

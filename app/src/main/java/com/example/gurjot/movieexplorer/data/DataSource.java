@@ -11,7 +11,7 @@ import java.util.List;
 import androidx.lifecycle.LiveData;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public interface DataSource {
 

@@ -10,7 +10,7 @@ import java.util.List;
 import androidx.room.TypeConverter;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/20/2018.
  */
 public class Converters {

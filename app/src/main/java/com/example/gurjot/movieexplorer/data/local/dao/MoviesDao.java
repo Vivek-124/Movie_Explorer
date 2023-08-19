@@ -13,7 +13,7 @@ import androidx.room.Query;
 import androidx.room.Transaction;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 @Dao
 public interface MoviesDao {

@@ -23,7 +23,7 @@ import retrofit2.Response;
  * A data source that uses the before/after keys returned in page requests.
  * <p>
  *
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class MoviePageKeyedDataSource extends PageKeyedDataSource<Integer, Movie> {
 

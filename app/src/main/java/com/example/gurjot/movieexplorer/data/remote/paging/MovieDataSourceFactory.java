@@ -12,7 +12,7 @@ import androidx.paging.DataSource;
 /**
  * A simple data source factory provides a way to observe the last created data source.
  *
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class MovieDataSourceFactory extends DataSource.Factory<Integer, Movie> {
 

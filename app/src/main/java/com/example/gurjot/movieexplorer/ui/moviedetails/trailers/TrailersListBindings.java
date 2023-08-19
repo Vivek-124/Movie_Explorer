@@ -8,7 +8,7 @@ import androidx.databinding.BindingAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/11/2018.
  */
 public class TrailersListBindings {

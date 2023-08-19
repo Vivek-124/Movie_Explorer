@@ -9,7 +9,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.ViewModel;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class FavoritesViewModel extends ViewModel {
 

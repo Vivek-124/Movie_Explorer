@@ -29,7 +29,7 @@ import com.example.gurjot.movieexplorer.utils.UiUtils;
 import com.example.gurjot.movieexplorer.utils.ViewModelFactory;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class DiscoverMoviesFragment extends Fragment {
 

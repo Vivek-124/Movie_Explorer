@@ -20,7 +20,7 @@ import timber.log.Timber;
 /**
  * Repository implementation that returns a paginated data and loads data directly from network.
  *
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class MovieRepository implements DataSource {
 

@@ -10,7 +10,7 @@ import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class ViewModelFactory implements ViewModelProvider.Factory {
 

@@ -15,7 +15,7 @@ import com.example.gurjot.movieexplorer.data.local.model.Resource;
 import com.example.gurjot.movieexplorer.ui.movieslist.MoviesFilterType;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class DiscoverMoviesViewModel extends ViewModel {
 

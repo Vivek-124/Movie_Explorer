@@ -11,7 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class FavoritesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

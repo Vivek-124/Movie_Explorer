@@ -12,7 +12,7 @@ import com.example.gurjot.movieexplorer.data.remote.api.MovieService;
 /**
  * Class that handles object creation.
  *
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class Injection {
 

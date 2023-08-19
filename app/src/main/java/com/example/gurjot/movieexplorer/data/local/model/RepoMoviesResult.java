@@ -7,7 +7,7 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.paging.PagedList;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class RepoMoviesResult {
     public LiveData<PagedList<Movie>> data;

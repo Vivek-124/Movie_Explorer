@@ -13,7 +13,7 @@ import retrofit2.http.Query;
 /**
  * TheMovieDB REST API access points.
  * <p>
- * Created by Yassin Ajdi.
+ * Created by Gurjot Singh.
  */
 public interface MovieService {
 

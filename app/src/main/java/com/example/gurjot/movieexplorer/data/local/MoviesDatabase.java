@@ -20,7 +20,7 @@ import androidx.room.TypeConverters;
 /**
  * The Room Database that manages a local database.
  *
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 @Database(
         entities = {Movie.class, Trailer.class, Cast.class, Review.class},

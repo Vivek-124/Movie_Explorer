@@ -8,7 +8,7 @@ import androidx.fragment.app.FragmentTransaction;
 /**
  * This provides methods to help Activities load their UI.
  *
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class ActivityUtils {
 

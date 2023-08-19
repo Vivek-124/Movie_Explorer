@@ -14,7 +14,7 @@ import com.example.gurjot.movieexplorer.utils.Constants;
 import com.example.gurjot.movieexplorer.utils.GlideApp;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/12/2018.
  */
 public class CastViewHolder extends RecyclerView.ViewHolder {

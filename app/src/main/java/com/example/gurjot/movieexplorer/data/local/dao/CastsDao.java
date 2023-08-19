@@ -9,7 +9,7 @@ import androidx.room.Insert;
 import androidx.room.OnConflictStrategy;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/12/2018.
  */
 @Dao

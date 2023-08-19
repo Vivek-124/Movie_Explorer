@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 import androidx.annotation.NonNull;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class AppExecutors {
 

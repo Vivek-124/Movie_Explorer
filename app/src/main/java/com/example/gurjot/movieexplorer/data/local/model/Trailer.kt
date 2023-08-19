@@ -10,7 +10,7 @@ import androidx.room.PrimaryKey
 import androidx.room.ForeignKey.CASCADE
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 @Entity(tableName = "trailer",
         foreignKeys = [ForeignKey(entity = Movie::class,

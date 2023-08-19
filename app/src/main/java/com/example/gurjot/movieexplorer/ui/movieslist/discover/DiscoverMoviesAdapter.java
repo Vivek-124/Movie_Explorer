@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 /**
  * Adapter implementation that shows a list of Movie posters
  *
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class DiscoverMoviesAdapter extends PagedListAdapter<Movie, RecyclerView.ViewHolder> {
 

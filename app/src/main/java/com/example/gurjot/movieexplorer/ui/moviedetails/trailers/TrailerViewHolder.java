@@ -17,7 +17,7 @@ import com.example.gurjot.movieexplorer.utils.Constants;
 import com.example.gurjot.movieexplorer.utils.GlideApp;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class TrailerViewHolder extends RecyclerView.ViewHolder {
 

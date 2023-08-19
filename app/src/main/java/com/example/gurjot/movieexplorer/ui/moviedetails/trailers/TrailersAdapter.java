@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class TrailersAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

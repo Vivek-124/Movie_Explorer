@@ -3,7 +3,7 @@ package com.example.gurjot.movieexplorer.data.local.model
 import com.google.gson.annotations.SerializedName
 
 /**
- * Created by Yassin Ajdi.
+ * Created by Gurjot Singh.
  */
 data class MoviesResponse (
 

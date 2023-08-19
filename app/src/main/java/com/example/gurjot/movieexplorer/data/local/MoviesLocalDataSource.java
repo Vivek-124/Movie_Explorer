@@ -13,7 +13,7 @@ import androidx.lifecycle.LiveData;
 import timber.log.Timber;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class MoviesLocalDataSource {
 

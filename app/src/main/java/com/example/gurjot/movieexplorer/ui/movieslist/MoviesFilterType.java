@@ -1,7 +1,7 @@
 package com.example.gurjot.movieexplorer.ui.movieslist;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public enum MoviesFilterType {
     POPULAR,

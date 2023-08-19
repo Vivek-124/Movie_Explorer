@@ -17,7 +17,7 @@ import androidx.paging.LivePagedListBuilder;
 import androidx.paging.PagedList;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class MoviesRemoteDataSource {
 

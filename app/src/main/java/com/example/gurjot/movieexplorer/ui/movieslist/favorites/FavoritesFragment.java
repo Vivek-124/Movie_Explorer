@@ -25,7 +25,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class FavoritesFragment extends Fragment {
 

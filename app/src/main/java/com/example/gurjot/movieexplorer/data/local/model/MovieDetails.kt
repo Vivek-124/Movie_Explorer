@@ -8,7 +8,7 @@ import androidx.room.Relation
 /**
  * This class is used to load full movie details including (Trailers, Cast, etc)
  *
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/12/2018.
  */
 data class MovieDetails (

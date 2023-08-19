@@ -10,7 +10,7 @@ import androidx.room.PrimaryKey
 import androidx.room.ForeignKey.CASCADE
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/12/2018.
  */
 @Entity(tableName = "cast",

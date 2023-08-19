@@ -12,7 +12,7 @@ import okhttp3.Response;
 /**
  * Interceptor used to add TheMovieDB API Key to the http request
  * <p>
- * Created by Yassin Ajdi.
+ * Created by Gurjot Singh.
  */
 public class AuthInterceptor implements Interceptor {
 

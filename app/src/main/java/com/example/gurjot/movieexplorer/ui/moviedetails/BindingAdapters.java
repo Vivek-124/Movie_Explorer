@@ -21,7 +21,7 @@ import com.google.android.material.chip.ChipGroup;
 import java.util.List;
 
 /**
- * @author Yassin Ajdi
+ * @author Gurjot Singh
  * @since 11/11/2018.
  */
 public class BindingAdapters {

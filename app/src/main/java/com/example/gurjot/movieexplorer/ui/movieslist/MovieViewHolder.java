@@ -13,7 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * @author Yassin Ajdi.
+ * @author Gurjot Singh.
  */
 public class MovieViewHolder extends RecyclerView.ViewHolder {
 
